@@ -12,5 +12,5 @@
 -->
 
 
+# Team EAT-SSU
 숭실대학교 컴퓨터학부 사용자인터페이스및실습 
-Team EAT-SSU
