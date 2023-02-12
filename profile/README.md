@@ -17,3 +17,4 @@
 |안드로이드|[유진](https://github.com/HI-JIN2)|jini1514@soongsil.ac.kr|
 |안드로이드|[이현지](https://github.com/Amepistheo)|kellylhji@naver.com |
 |웹 크롤링|[김현수](https://github.com/rover0811)|rover0811@gmail.com|
+|iOS|[최지우](https://github.com/CJiu01)|tlsrma2142@soongsil.ac.kr|
