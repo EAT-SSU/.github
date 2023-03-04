@@ -12,10 +12,13 @@
 |[이현지](https://github.com/Amepistheo)|kellylhji@naver.com |
 
 ### 2차 개발
-|스택|이름|이메일|
+|역할|이름|이메일|
 |:---:|:---:|:---:|
-|안드로이드|[유진](https://github.com/HI-JIN2)|jini1514@soongsil.ac.kr|
-|안드로이드|[이현지](https://github.com/Amepistheo)|kellylhji@naver.com |
-|웹 크롤링|[김현수](https://github.com/rover0811)|rover0811@gmail.com|
+|Android / PM|[유진](https://github.com/HI-JIN2)|jini1514@soongsil.ac.kr|
+|Android|[이현지](https://github.com/Amepistheo)|kellylhji@naver.com |
 |iOS|[최지우](https://github.com/CJiu01)|tlsrma2142@soongsil.ac.kr|
-|디자인|오설란|snowyorchid@naver.com
+|iOS|[박윤빈](https://github.com/binisnull)|dbsqlssss0704@gmail.com|
+|Web crawling|[김현수](https://github.com/rover0811)|rover0811@gmail.com|
+|Server|[김소연](https://github.com/SY2on)|sjk8w7@gmail.com|
+|Design|오설란|snowyorchid@naver.com|
+
