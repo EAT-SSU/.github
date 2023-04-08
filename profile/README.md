@@ -23,8 +23,5 @@
 |Web crawling|[김현수](https://github.com/rover0811)|rover0811@gmail.com|
 |Server|[김소연](https://github.com/SY2on)|sjk8w7@gmail.com|
 |Design|오설란|snowyorchid@naver.com|
-|PR|박지민||
-|PR|윤도진|dojin0806@naver.com|
-|PR||
 
 [Team Notion](https://hi-jin-1514.notion.site/what-is-EAT-SSU-b04aaec9b7814a628c6ef6b3e08c74a3)
