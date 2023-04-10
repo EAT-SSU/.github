@@ -1,5 +1,8 @@
 # Team EAT-SSU
-안녕하세요! 숭실대에서 먹자, Eat-SSU입니다. 2022-2학기에 컴퓨터학부 전공 팀플 '사용자인터페이스및실습' 과목 수강 이후, 숭실대 내에서의 실사용을 목표로 프로젝트를 이어서 진행하게 되었습니다. 2023-1학기 내 안드로이드와 iOS 배포를 목표로 작업 중입니다. 
+안녕하세요! 숭실대에서 먹자, Eat-SSU입니다. 2022-2학기에 컴퓨터학부 전공 팀플 '사용자인터페이스및실습' 과목 수강 이후, 숭실대 내에서의 실사용을 목표로 프로젝트를 이어서 진행하게 되었습니다. 2023-1학기 내 안드로이드와 iOS 배포를 목표로 작업 중입니다.   
+
+[What is EAT-SSU? [Team Notion]](https://hi-jin-1514.notion.site/what-is-EAT-SSU-b04aaec9b7814a628c6ef6b3e08c74a3)  
+
 
 
 ## Team Member
@@ -23,5 +26,3 @@
 |Web crawling|[김현수](https://github.com/rover0811)|rover0811@gmail.com|
 |Server|[김소연](https://github.com/SY2on)|sjk8w7@gmail.com|
 |Design|오설란|snowyorchid@naver.com|
-
-[Team Notion](https://hi-jin-1514.notion.site/what-is-EAT-SSU-b04aaec9b7814a628c6ef6b3e08c74a3)
