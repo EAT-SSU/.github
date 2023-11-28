@@ -27,3 +27,5 @@
 |Web crawling|[김현수](https://github.com/rover0811)|rover0811@gmail.com|
 |Server|[김소연](https://github.com/SY2on)|sjk8w7@gmail.com|
 |Design|오설란|snowyorchid@naver.com|
+|Design|김나령|-|
+|PR|박지민|-|
