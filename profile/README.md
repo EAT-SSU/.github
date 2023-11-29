@@ -3,7 +3,7 @@
 2022-2학기에 컴퓨터학부 전공 팀플 '사용자인터페이스및실습' 과목 수강 이후, 숭실대 내에서의 실사용을 목표로 프로젝트를 이어서 진행하게 되었습니다. 2023-2학기에 안드로이드와 iOS 애플리케이션을 배포하였습니다. 
 
 - team EAT-SSU에 대해 궁금하시다면? [What is EAT-SSU? [Team Notion]](https://hi-jin-1514.notion.site/what-is-EAT-SSU-b04aaec9b7814a628c6ef6b3e08c74a3)  
-- 서비스 운영 중 `2023.11.16~` [Play Store 바로가기](https://play.google.com/store/apps/details?id=com.eatssu.android) [App Store 바로가기](https://apps.apple.com/kr/app/eat-ssu-%EC%88%AD%EC%8B%A4%EB%8C%80-%ED%95%99%EC%8B%9D-%EB%A6%AC%EB%B7%B0-%EC%95%B1/id6472618331)
+- 서비스 운영 중 `2023.11.28~` [Play Store 바로가기](https://play.google.com/store/apps/details?id=com.eatssu.android) [App Store 바로가기](https://apps.apple.com/kr/app/eat-ssu-%EC%88%AD%EC%8B%A4%EB%8C%80-%ED%95%99%EC%8B%9D-%EB%A6%AC%EB%B7%B0-%EC%95%B1/id6472618331)
 
 
 ## Team Member
