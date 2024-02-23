@@ -49,6 +49,8 @@ Team EAT-SSU에 대해 문의 사항이 있으시거나 앱에 대해 제안사�
 |iOS|[박윤빈](https://github.com/binisnull)|dbsqlssss0704@gmail.com|
 |Web crawling|[김현수](https://github.com/rover0811)|rover0811@gmail.com|
 |Server|[김소연](https://github.com/SY2on)|sjk8w7@gmail.com|
+|Server|[백건우](https://github.com/packdev937)|sjk8w7@gmail.com|
 |Design|오설란|snowyorchid@naver.com|
 |Design|김나령|-|
 |PR|박지민|-|
+|Data Analyst|안예영|-|
