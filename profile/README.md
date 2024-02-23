@@ -51,6 +51,6 @@ Team EAT-SSU에 대해 문의 사항이 있으시거나 앱에 대해 제안사�
 |Server|[김소연](https://github.com/SY2on)|sjk8w7@gmail.com|
 |Server|[백건우](https://github.com/packdev937)|packdev937@gmail.com|
 |Design|오설란|snowyorchid@naver.com|
-|Design|김나령|-|
-|PR|박지민|-|
-|Data Analyst|안예영|-|
+|Design|김나령|nharyeong@gmail.com|
+|PR|박지민|pim0228@naver.com|
+|Data Analyst|안예영|dpdud014722@gmail.com|
