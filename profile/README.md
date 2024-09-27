@@ -1,7 +1,8 @@
 # Team EAT-SSU
 - 서비스 운영 중 `2023.11.28~` [Play Store 바로가기](https://play.google.com/store/apps/details?id=com.eatssu.android) [App Store 바로가기](https://apps.apple.com/kr/app/eat-ssu-%EC%88%AD%EC%8B%A4%EB%8C%80-%ED%95%99%EC%8B%9D-%EB%A6%AC%EB%B7%B0-%EC%95%B1/id6472618331)
 
-![1212121212](https://github.com/user-attachments/assets/949ab832-3d80-48cb-9bae-0a3a45520009) 
+![Frame 213](https://github.com/user-attachments/assets/23793720-24e1-4e10-a51e-c91547923350)
+
 
 ```
 안녕하세요. 숭실대에서 먹자, Team EAT-SSU 입니다!
