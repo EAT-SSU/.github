@@ -25,4 +25,5 @@ Team EAT-SSU에 대해 문의 사항이 있으시거나 앱에 대해 제안사�
 
 - 이메일: eat.ssu2023@gmail.com  
 - [인스타그램](https://www.instagram.com/eatssu.official/)
-- [서비스 소개 노션 페이지](https://hi-jin-1514.notion.site/what-is-EAT-SSU-b04aaec9b7814a628c6ef6b3e08c74a3?pvs=4)
+- [서비스 소개 노션 페이지](
+https://eat-ssu.notion.site/EAT-SSU-1d2eeef75a1681198583e5282eaae6ba)
