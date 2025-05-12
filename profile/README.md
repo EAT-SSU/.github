@@ -27,3 +27,4 @@ Team EAT-SSU에 대해 문의 사항이 있으시거나 앱에 대해 제안사�
 - [인스타그램](https://www.instagram.com/eatssu.official/)
 - [서비스 소개 노션 페이지](
 https://eat-ssu.notion.site/EAT-SSU-1d2eeef75a1681198583e5282eaae6ba)
+- [잇슈에 합류하고 싶다면?](https://eat-ssu.notion.site/1d2eeef75a1681ae800cf6ffa6faa37d)
